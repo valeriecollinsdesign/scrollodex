@@ -21,3 +21,4 @@
 [Katya Sarmiento](https://github.com/Kitkatnik), Software Engineer from Atlanta, GA     
 [Ashleigh Halverstadt](https://github.com/heretoshleigh), Software Engineer from Denver, CO   
 [James Kim](https://github.com/soursprite), Software Engineer from Champaign, IL   
+[Valerie Collins](https://github.com/valeriecollinsdesign/scrollodex), UI Developer from Ft. Collins, CO
